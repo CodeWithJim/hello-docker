@@ -1,0 +1,12 @@
+{
+  "name": "first-docker-deployment",
+  "private": true,
+  "version": "0.0.5",
+  "description": "Hello Docker First App",
+  "main": "app.js",
+  "author": "Jim",
+  "dependencies": {
+    "express": "4.18.2",
+    "pug": "3.0.2"
+  }
+}
